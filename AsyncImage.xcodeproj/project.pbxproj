@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		87740D5C28412EAC00CEBDD9 /* SwiftUIAsyncImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAsyncImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		87740D5C28412EAC00CEBDD9 /* AsyncImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AsyncImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87740D5F28412EAC00CEBDD9 /* SwiftUIAsyncImageApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAsyncImageApp.swift; sourceTree = "<group>"; };
 		87740D6128412EAC00CEBDD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		87740D6328412EAF00CEBDD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		87740D5D28412EAC00CEBDD9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				87740D5C28412EAC00CEBDD9 /* SwiftUIAsyncImage.app */,
+				87740D5C28412EAC00CEBDD9 /* AsyncImage.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		87740D5B28412EAC00CEBDD9 /* SwiftUIAsyncImage */ = {
+		87740D5B28412EAC00CEBDD9 /* AsyncImage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 87740D6A28412EAF00CEBDD9 /* Build configuration list for PBXNativeTarget "SwiftUIAsyncImage" */;
+			buildConfigurationList = 87740D6A28412EAF00CEBDD9 /* Build configuration list for PBXNativeTarget "AsyncImage" */;
 			buildPhases = (
 				87740D5828412EAC00CEBDD9 /* Sources */,
 				87740D5928412EAC00CEBDD9 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = SwiftUIAsyncImage;
+			name = AsyncImage;
 			productName = SwiftUIAsyncImage;
-			productReference = 87740D5C28412EAC00CEBDD9 /* SwiftUIAsyncImage.app */;
+			productReference = 87740D5C28412EAC00CEBDD9 /* AsyncImage.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 87740D5728412EAC00CEBDD9 /* Build configuration list for PBXProject "SwiftUIAsyncImage" */;
+			buildConfigurationList = 87740D5728412EAC00CEBDD9 /* Build configuration list for PBXProject "AsyncImage" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				87740D5B28412EAC00CEBDD9 /* SwiftUIAsyncImage */,
+				87740D5B28412EAC00CEBDD9 /* AsyncImage */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		87740D5728412EAC00CEBDD9 /* Build configuration list for PBXProject "SwiftUIAsyncImage" */ = {
+		87740D5728412EAC00CEBDD9 /* Build configuration list for PBXProject "AsyncImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				87740D6828412EAF00CEBDD9 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		87740D6A28412EAF00CEBDD9 /* Build configuration list for PBXNativeTarget "SwiftUIAsyncImage" */ = {
+		87740D6A28412EAF00CEBDD9 /* Build configuration list for PBXNativeTarget "AsyncImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				87740D6B28412EAF00CEBDD9 /* Debug */,
