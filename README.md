@@ -24,6 +24,6 @@ A simple app that displays image from a URL using AsyncImage.
 
 ### 👨🏻‍⚖️ Disclaimer
 
-> This is posted as a way to share SwiftUI learnings (and is not production level code) and in the hopes that other iOS developers may use the app themselves. Use it at your own risk.
-> This is made as part of SwiftUI Masterclass.
+> This is posted as a way to share SwiftUI learnings at Credo Academy (and is not production level code) and in the hopes that other iOS developers may use the app themselves. Use it at your own risk.
+
 
