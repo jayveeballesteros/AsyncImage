@@ -20,7 +20,7 @@ A simple app that displays image from a URL using AsyncImage.
 ### 📚 Learnings
 
 - Use of SwiftUI AsyncImage from basic to scaling the image, creating a placeholder in case of error, handling phases and animating the image.
-- Creating a reusable image extension to avoid duplication of modifiers. 
+- Creating a reusable image extension to avoid duplicate modifiers. 
 
 ## 🙇🏻 Credits
 
